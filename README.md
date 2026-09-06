@@ -15,10 +15,14 @@
 - Домашние SOC-лаборатории
 
 ## Структура
-
 ```
-├── report_1.md          # отчёт по инциденту
+├── report_soc253.md
+├── report_soc257.md
+├── ...
 └── screenshots/
-    ├── report_1_1.png   # скриншоты к отчёту
-    └── report_1_2.png
+    ├── report_soc253_1.png
+    ├── report_soc253_2.png
+    ├── report_soc257_1.png
+    ├── report_soc257_2.png
+    └── ...
 ```
